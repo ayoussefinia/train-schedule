@@ -1,0 +1,35 @@
+#main-container {
+  width: 80%;
+  margin: auto;
+  border: 1px solid black;
+  
+}
+
+#main-title {
+  width: 100%;
+  height: 15vh;
+  border: 1px solid green;
+  text-align: center;
+}
+
+#current-schedule {
+  margin-top: 2rem;
+  border: 1px solid gray;
+  width: 100%;
+  height: 35vh;
+}
+
+#add-train {
+  margin-top: 2rem;
+  border: 1px solid rgb(0, 133, 93);
+  width: 100%;
+  padding: 10px;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+.form-input {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid rgb(0, 190, 133);
+}
